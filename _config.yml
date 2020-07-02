@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 footer:
-author:
+# author:
   name             : "Courtney Tern"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
