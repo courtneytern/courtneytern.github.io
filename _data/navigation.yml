@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: https://courtneytern.github.io/
   - title: "Projects"
-    url: https://courtneytern.github.io/projects
+    url: /projects/
   - title: "Blog"
-    url: /collection-archive/
+    url: /blog/
   - title: "Resume"
     url: /sitemap/
