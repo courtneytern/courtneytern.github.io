@@ -92,13 +92,15 @@ analytics:
 
 
 # Site Author
-footer:
-# author:
+author:
   name             : "Courtney Tern"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
   location         : "USA"
   email            : "catern19@gmail.com"
+
+
+footer:
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
