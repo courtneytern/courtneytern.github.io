@@ -248,8 +248,8 @@ compress_html:
     envs: development
 
 # set up collections
-collections_dir: mycollections
 collections:
+  collections_dir: mycollections
   blog:
     output: true
     permalink: /:collection/:path/
