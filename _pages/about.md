@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+title: test title
 ---
 
 ### About Me
