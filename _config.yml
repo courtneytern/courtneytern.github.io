@@ -127,7 +127,7 @@ include:
   - .htaccess
   - _pages
   - _posts
-  - _blog
+  - mycollections
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -250,7 +250,7 @@ compress_html:
 
 # set up collections
 collections:
-  # collections_dir: mycollections
+  collections_dir: mycollections
   blog:
     output: true
     permalink: /:collection/:path/
