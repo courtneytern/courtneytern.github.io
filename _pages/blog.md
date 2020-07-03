@@ -7,7 +7,6 @@ permalink: /blog/
 classes: wide
 ---
 
-## This is the landing page for my blog
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}

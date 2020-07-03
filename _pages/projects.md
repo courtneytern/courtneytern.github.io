@@ -1,4 +1,5 @@
 ---
+title: Current Projects
 permalink: /projects/
 ---
 
