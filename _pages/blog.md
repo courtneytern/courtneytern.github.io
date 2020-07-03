@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: archive
-collection: blog
+# collection: blog
 entries_layout: grid
 permalink: /blog/
 classes: wide
