@@ -4,6 +4,7 @@ layout: archive
 # collection: blog
 entries_layout: grid
 permalink: /blog/
+breadcrumbs: true
 classes: wide
 ---
 
