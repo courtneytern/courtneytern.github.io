@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: collection
+layout: archive
 collection: blog
 entries_layout: grid
 permalink: /blog/
