@@ -3,15 +3,12 @@
    ========================================================================== */
 
 /* Colors */
-/*** These values have been customized by CT 07.03.2020 ***/
-
-$background-color: #F5F5F5 !default; //white-gray
 $text-color: #222831 !default;
-$muted-text-color: #998DA0 !default; //mauve
-$primary-color: #F5DB86 !default; //yellow
+$muted-text-color: #393e46 !default;
+$primary-color: #0092ca !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
-$link-color: #68B0AB !default; //blue-green
+$link-color: #393e46 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
