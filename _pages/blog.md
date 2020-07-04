@@ -7,6 +7,7 @@ permalink: /blog/
 breadcrumbs: true
 classes: wide
 ---
+{% include breadcrumbs.html %}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
