@@ -147,7 +147,6 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
-  - /_layouts/home.html
   - node_modules
   - package.json
   - package-lock.json
@@ -265,6 +264,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar: true
       read_time: false
       comments: true
       share: true
