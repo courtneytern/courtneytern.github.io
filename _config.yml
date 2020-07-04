@@ -147,6 +147,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - /_layouts/home.html
   - node_modules
   - package.json
   - package-lock.json
