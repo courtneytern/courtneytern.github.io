@@ -1,0 +1,39 @@
+I"™<h2 id="blog">Blog</h2>
+
+<nav class="breadcrumbs">
+  <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+          <a href="http://localhost:4000/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        <li class="current"></li>
+      
+    
+  </ol>
+</nav>
+
+<h3 class="archive__subtitle">Recent posts</h3>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/firstpost/" rel="permalink">Firstpost
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">First Blog post
+</p>
+  </article>
+</div>
+
+:ET
