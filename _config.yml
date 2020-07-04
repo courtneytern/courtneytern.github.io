@@ -275,7 +275,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      author_profile: true
+      author_profile: false
       breadcrumbs: false
  # _blog
   - scope:
