@@ -1,4 +1,8 @@
-<div class="sidenav"></div>
+---
+  author_profile: false
+---
+
+<!-- <div class="sidenav"></div> -->
 
 ## First Blog post
 
