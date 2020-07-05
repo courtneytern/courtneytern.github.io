@@ -4,6 +4,7 @@ entries_layout: grid
 permalink: /blog/
 breadcrumbs: true
 classes: wide
+type: pages
 ---
 {% include breadcrumbs.html %}
 ## Blog

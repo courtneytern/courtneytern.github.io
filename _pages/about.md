@@ -5,6 +5,7 @@ breadcrumbs: false
 search: false
 layout: single
 author_profile: false
+type: pages
 ---
 
 Hi! My name is Courtney Tern. I am currently an undergraduate at the University of Virginia, pursuing a Distinguished Major in Human Biology and a B.A. in Mathematical Statistics.
