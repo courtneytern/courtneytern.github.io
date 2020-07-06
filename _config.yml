@@ -260,11 +260,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "https://courtneytern.github.io/blog"
+      path: ""
       type: "posts"
     values:
-      author_profile: true
-      read_time: false
+      layout: single
+      author_profile: false
       comments: true
       share: true
       related: true
