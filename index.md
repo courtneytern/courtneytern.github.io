@@ -1,14 +1,13 @@
 ---
 header:
-  title: "change the title"
   overlay_color: "#F5DB86"
+  color: "#FF0000"
 layout: splash
 author_profile: true
 search: false
 permalink: /
 type: pages
-tagline: "This is the tagline"
-color: "#FF0000"
+tagline: "Human Biology DMP, BA Statistics\b University of Virginia \'20"
 ---
 
 This is the new home page
