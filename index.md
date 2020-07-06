@@ -7,7 +7,7 @@ author_profile: true
 search: false
 permalink: /
 type: pages
-tagline: "Human Biology DMP, BA Statistics \br University of Virginia \'20"
+tagline: "Human Biology DMP, BA Statistics <br> University of Virginia \'20"
 ---
 
 This is the new home page
