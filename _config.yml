@@ -263,7 +263,6 @@ defaults:
       path: "https://courtneytern.github.io/blog"
       type: "posts"
     values:
-      layout: single
       author_profile: true
       read_time: false
       comments: true
