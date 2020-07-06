@@ -6,9 +6,9 @@ author_profile: true
 search: false
 permalink: /
 type: pages
-excerpt: "This is the excerpt"
 tagline: "This is the tagline"
 color: "#FF0000"
+title: "change the title"
 ---
 
 This is the new home page
