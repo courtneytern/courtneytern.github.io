@@ -1,5 +1,5 @@
 ---
-author_profile: true
+author_profile: false
 ---
 {% include sidebar.html %}
 ## First Blog post
