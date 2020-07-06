@@ -476,8 +476,8 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 0.75rem;
-  font-family: $global-font-family;
-  font-size: $global-font-family;
+  font-family: $georgia;
+  font-size: $type-size-5;
   font-weight: bold;
 }
 
@@ -485,7 +485,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
-  font-family: $georgia
+  font-family: $georgia;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
