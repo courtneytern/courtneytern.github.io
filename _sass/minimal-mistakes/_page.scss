@@ -193,11 +193,15 @@ body {
       }
     }
 
-    .page__title,
+    .page__title{
+      color: #003D52;
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+
     .page__meta,
     .page__lead,
     .btn {
-      color: #696D7D;
+      color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
