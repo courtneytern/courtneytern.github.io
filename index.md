@@ -1,8 +1,6 @@
 ---
 header:
   overlay_color: "#F5DB86"
-title:
-  color: "#FF0000"
 layout: splash
 author_profile: true
 search: false
