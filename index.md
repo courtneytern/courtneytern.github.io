@@ -1,7 +1,9 @@
 ---
+title: "Courtney Tern"
 header:
   overlay_color: "#F5DB86"
 layout: splash
+author_profile: false
 search: false
 permalink: /
 type: pages
