@@ -10,12 +10,12 @@ This is the landing page for my current projects
 
 <figure class="third">
   <div markdown="1">
-  ### Bergland Lab
-  Can I put something here
+   <h3> Bergland Lab </h3>
+   <p> Can I put something here </p>
   </div>
 
   <div markdown="1">
-  ### Onengut Lab
-  And another thing here
+   <h3> Onengut Lab </h3>
+   <p> And another thing here </p>
   </div>
 </figure>
