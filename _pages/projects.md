@@ -8,11 +8,31 @@ type: pages
 
 This is the landing page for my current projects
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text here.
-  </div>
-  <div class="col-md-4" markdown="1">
-  Second column
-  </div>
-</div>
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() {
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table
