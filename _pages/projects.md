@@ -9,6 +9,13 @@ type: pages
 This is the landing page for my current projects
 
 <figure class="half">
-  <div>Can I put something here</div>
-  <div>And another thing here</div>
+  <div markdown="1">
+    ### Bergland Lab
+    Can I put something here
+  </div>
+  
+  <div markdown="1">
+    ### Onengut Lab
+    And another thing here
+  </div>
 </figure>
