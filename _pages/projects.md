@@ -12,7 +12,6 @@ This is the landing page for my current projects
   <div class="col-md-8" markdown="1">
   Some text.
   </div>
-
   <div class="col-md-4" markdown="1">
   Second column
   </div>
