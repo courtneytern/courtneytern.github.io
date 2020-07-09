@@ -8,31 +8,7 @@ type: pages
 
 This is the landing page for my current projects
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() {
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table
+<figure class="half">
+  <div>Can I put something here</div>
+  <div>And another thing here</div>
+</figure>
