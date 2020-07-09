@@ -18,5 +18,5 @@ type: pages
    I have just started at this lab, and I am in the learning and listening phase! I have been reading many papers about the genetic basis of Type 1 Diabetes in humans.
   </div>
 
-  <div> "" </div>  <!-- This is a placeholder for formatting the "thirds" class  -->
+  <div> </div>  <!-- This is a placeholder for formatting the "thirds" class  -->
 </figure>
