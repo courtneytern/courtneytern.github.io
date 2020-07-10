@@ -45,8 +45,7 @@ WORK EXPERIENCE </h2>
 *	Scores tests and ensures fair evaluation
 
 
-<h2> <i class="fas fa-graduation-cap" style="background-color:#DEB143;color:#fff"></i>
-EDUCATION </h2>
+## <i class="fas fa-graduation-cap" style="background-color:#DEB143;color:#fff"></i> EDUCATION
 
 **HUMAN BIOLOGY DMP / B.A. MATHEMATICAL STATISTICS** <br>
 *2018-2022* <br>
