@@ -8,6 +8,7 @@ sidebar: false
 permalink: /resume/
 author_profile: false
 toc: true
+toc_sticky: true
 toc_label: "Contents"
 toc_icon: fas fa-fw fa-map-marker-alt"
 ---
