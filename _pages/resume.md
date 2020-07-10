@@ -49,12 +49,45 @@ EDUCATION </h2>
 *2018-2022* <br>
 University of Virginia <br>
 Charlottesville, VA <br>
-GPA: 3.815/4.000
+* GPA: 3.815/4.000
+*	Dean’s List, *Fall 2018-present*
 
 
 <h2> <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i>
 HONORS/LEADERSHIP </h2>
+*	Marching Band Section Leader, *Fall 2020*
+*	School of Music lesson scholarship recipient, *Fall 2019-present*
+* Marching Band Drill Instructor, *Fall 2019*
+
+
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
 MUSIC </h2>
+**CHARLOTTESVILLE SYMPHONY ORCHESTRA**
+*University of Virginia, Charlottesville, VA  /  August 2018 - Present*
+*	Performs masterworks with semi-professional orchestra for the greater Charlottesville community
+
+**CAVALIER MARCHING BAND**
+*University of Virginia, Charlottesville, VA  /  August 2018 - Present*
+*	Drill Instructor, Fall 2019
+  - Designed and taught visuals for each home football game
+  - Collaborated with peers and directors to instruct students of all ability levels
+*	Memorized and performed new shows at every home football game
+*	Fosters university culture and spirit of care and enthusiasm
+
+**WIND ENSEMBLE**
+*University of Virginia, Charlottesville, VA  /  August 2018 - Present*
+*	Elite band of student musicians
+*	Performs semiannually for the university and Charlottesville community
+
 <h2> <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i>
 HARD SKILLS </h2>
+Programming languages:
+* Java, Bash, AWK, Markdown, HTML
+Coding applications:
+* GitHub Pages
+* R Studio
+Foreign languages:
+* Proficient French
+* Intermediate Chinese
+Other:
+* State-ranked Clarinet
