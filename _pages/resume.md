@@ -12,6 +12,8 @@ toc_sticky: true
 toc_label: "Contents"
 toc_icon: fas fa-fw fa-map-marker-alt"
 ---
+* TOC
+{:toc}
 
 <h2> <i class="fas fa-microscope" style="background-color:#DEB143;color:#fff"></i>
 RESEARCH </h2>
