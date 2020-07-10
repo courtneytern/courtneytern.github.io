@@ -12,11 +12,7 @@ toc_sticky: true
 toc_label: "Contents"
 toc_icon: fas fa-fw fa-map-marker-alt"
 ---
-* TOC
-{:toc}
-
-<h2> <i class="fas fa-microscope" style="background-color:#DEB143;color:#fff"></i>
-RESEARCH </h2>
+## <i class="fas fa-microscope" style="background-color:#DEB143;color:#fff"></i> RESEARCH
 **UNDERGRADUATE INDEPENDENT RESEARCH** <br>
 *University of Virginia, Charlottesville, VA  /  January 2019 - Present*
 * Maps whole-genome sequence data of Drosophila simulans to understand its evolutionary history
@@ -26,8 +22,7 @@ RESEARCH </h2>
 *	Trained two undergraduates to maintain quality and consistency of data collection work
 
 
-<h2> <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"></i>
-WORK EXPERIENCE </h2>
+## <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"></i> WORK EXPERIENCE
 **TUTOR** <br>
 *Varsity Tutors LLC, Online  /  January 2019 – present*
 *	Mentors students in understanding various levels of math, science, and standardized testing
@@ -55,15 +50,13 @@ Charlottesville, VA <br>
 *	Dean’s List, *Fall 2018-present*
 
 
-<h2> <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i>
-HONORS/LEADERSHIP </h2>
+## <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i> HONORS/LEADERSHIP
 *	Marching Band Section Leader, *Fall 2020*
 *	School of Music lesson scholarship recipient, *Fall 2019-present*
 * Marching Band Drill Instructor, *Fall 2019*
 
 
-<h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
-MUSIC </h2>
+## <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i> MUSIC
 **CHARLOTTESVILLE SYMPHONY ORCHESTRA** <br>
 *University of Virginia, Charlottesville, VA  /  August 2018 - Present*
 *	Performs masterworks with semi-professional orchestra for the greater Charlottesville community
@@ -81,8 +74,7 @@ MUSIC </h2>
 *	Elite band of student musicians
 *	Performs semiannually for the university and Charlottesville community
 
-<h2> <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i>
-HARD SKILLS </h2>
+## <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i> HARD SKILLS
 Programming languages:
 * Java, Bash, AWK, Markdown, HTML
 
