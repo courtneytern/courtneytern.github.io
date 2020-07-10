@@ -5,9 +5,12 @@ permalink: /projects/
 search: false
 type: pages
 ---
-### Bergland Lab
+## Bergland Lab
 *2019-present* <br>
-Currently, I am working on a project to study the evolutionary history of the model organism *Drosophila simulans* in North America. Using published whole-genome sequencing data from online databases, my aim is to discover the percentage that North American populations of *D. simulans* are admixed with European and African populations. <br>
+Currently, I am working on a project to study the evolutionary history of the model organism *Drosophila simulans* in North America. Using published whole-genome sequencing data from online databases, my aim is to discover the percentage that North American populations of *D. simulans* are admixed with European and African populations.
+
+<p style="font-size:10px;">
+
 #### Past projects
 * Conducted a ten-month fecundity assay on *Drosophila melanogaster* samples to study plasticity vs adaptation
   - Adapted and tested a computer program to count eggs on an agar plate
@@ -15,6 +18,8 @@ Currently, I am working on a project to study the evolutionary history of the mo
   - Collected samples from a field site
 * Maintained routine fly stocks
 
-### Onengut Lab
+</p>
+
+## Onengut Lab
 *2020-present* <br>
 I have just started at this lab, and I am in the learning and listening phase! I have been reading many papers about the genetic basis of Type 1 Diabetes in humans.
