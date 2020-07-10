@@ -4,6 +4,7 @@ class: wide
 title: Courtney Tern
 header:
   overlay_image: "/assets/images/headerColorBlock.jpg"
+sidebar: false
 permalink: /resume/
 type: pages
 breadcrumbs: false
@@ -29,7 +30,7 @@ RESEARCH </h2>
 WORK EXPERIENCE </h2>
 <h2> <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i>
 EDUCATION </h2>
-<h2> <i class="fas fa-medal" style="background-color:#DEB143;color:#fff"></i>
+<h2> <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i>
 HONORS/LEADERSHIP </h2>
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
 MUSIC </h2>
