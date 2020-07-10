@@ -13,6 +13,7 @@ toc_label: "Contents"
 toc_icon: fas fa-fw fa-map-marker-alt"
 ---
 
+<i class="fas fa-band-aid"></i>
 ## resume
 ### Education
 #### Experience
