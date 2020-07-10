@@ -36,9 +36,22 @@ WORK EXPERIENCE </h2>
 *	Extracted data for systematic review paper regarding patient-provider communication
 *	Contributed ideas to project meetings among public health professionals
 
+**EVENT SUPERVISOR** <br>
+*VA Science Olympiad, Charlottesville, VA  /  February 2019 – present*
+*	Proctors competition exams for regional- and state- level Science Olympiad
+*	Scores tests and ensures fair evaluation
+
 
 <h2> <i class="fas fa-graduation-cap" style="background-color:#DEB143;color:#fff"></i>
 EDUCATION </h2>
+
+**HUMAN BIOLOGY DMP / B.A. MATHEMATICAL STATISTICS** <br>
+*2018-2022* <br>
+University of Virginia <br>
+Charlottesville, VA <br>
+GPA: 3.815/4.000
+
+
 <h2> <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i>
 HONORS/LEADERSHIP </h2>
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
