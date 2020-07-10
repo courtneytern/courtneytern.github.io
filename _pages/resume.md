@@ -16,6 +16,14 @@ toc_icon: fas fa-fw fa-map-marker-alt"
 
 <h2> <i class="fas fa-microscope" style="background-color:#DEB143;color:#fff"></i>
 RESEARCH </h2>
+**UNDERGRADUATE INDEPENDENT RESEARCH**
+*University of Virginia, Charlottesville, VA  /  January 2019 - Present*
+* Maps whole-genome sequence data of Drosophila simulans to understand its evolutionary history
+* Works with high-performance computing platform, Rivanna
+*	Self-teaches AWK and Bash to write text-processing scripts
+*	Conducted fecundity assay on Drosophila melanogaster
+*	Trained two undergraduates to maintain quality and consistency of data collection work
+
 
 <h2> <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"></i>
 WORK EXPERIENCE </h2>
