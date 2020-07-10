@@ -31,5 +31,5 @@ EDUCATION </h2>
 HONORS/LEADERSHIP </h2>
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
 MUSIC </h2>
-<h2> <i class="fas fa-pencil" style="background-color:#DEB143;color:#fff"></i>
+<h2> <i class="fas fa-pencil-alt" style="background-color:#DEB143;color:#fff"></i>
 HARD SKILLS </h2>
