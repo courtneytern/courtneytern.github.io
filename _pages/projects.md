@@ -9,7 +9,7 @@ type: pages
 *2019-present* <br>
 Currently, I am working on a project to study the evolutionary history of the model organism *Drosophila simulans* in North America. Using published whole-genome sequencing data from online databases, my aim is to discover the percentage that North American populations of *D. simulans* are admixed with European and African populations.
 
-<p style="font-size:10px;">
+<p style="font-size:12px;" markdown="1">
 
 #### Past projects
 * Conducted a ten-month fecundity assay on *Drosophila melanogaster* samples to study plasticity vs adaptation
