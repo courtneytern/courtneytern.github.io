@@ -9,9 +9,10 @@ breadcrumbs: false
 search: false
 author_profile: false
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: "Contents"
+toc_icon: fas fa-fw fa-map-marker-alt"
 ---
+
 ## resume
 ### Education
 #### Experience
