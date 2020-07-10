@@ -63,11 +63,11 @@ HONORS/LEADERSHIP </h2>
 
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
 MUSIC </h2>
-**CHARLOTTESVILLE SYMPHONY ORCHESTRA**
+**CHARLOTTESVILLE SYMPHONY ORCHESTRA** <br>
 *University of Virginia, Charlottesville, VA  /  August 2018 - Present*
 *	Performs masterworks with semi-professional orchestra for the greater Charlottesville community
 
-**CAVALIER MARCHING BAND**
+**CAVALIER MARCHING BAND** <br>
 *University of Virginia, Charlottesville, VA  /  August 2018 - Present*
 *	Drill Instructor, Fall 2019
   - Designed and taught visuals for each home football game
@@ -75,7 +75,7 @@ MUSIC </h2>
 *	Memorized and performed new shows at every home football game
 *	Fosters university culture and spirit of care and enthusiasm
 
-**WIND ENSEMBLE**
+**WIND ENSEMBLE** <br>
 *University of Virginia, Charlottesville, VA  /  August 2018 - Present*
 *	Elite band of student musicians
 *	Performs semiannually for the university and Charlottesville community
@@ -84,11 +84,14 @@ MUSIC </h2>
 HARD SKILLS </h2>
 Programming languages:
 * Java, Bash, AWK, Markdown, HTML
+
 Coding applications:
 * GitHub Pages
 * R Studio
+
 Foreign languages:
 * Proficient French
 * Intermediate Chinese
+
 Other:
 * State-ranked Clarinet
