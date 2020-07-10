@@ -25,11 +25,11 @@ RESEARCH </h2>
 
 <h2> <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"></i>
 WORK EXPERIENCE </h2>
-<h2> <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i>
+<h2> <i class="fas fa-graduation-cap" style="background-color:#DEB143;color:#fff"></i>
 EDUCATION </h2>
 <h2> <i class="fas fa-award" style="background-color:#DEB143;color:#fff"></i>
 HONORS/LEADERSHIP </h2>
 <h2> <i class="fas fa-compact-disc" style="background-color:#DEB143;color:#fff"></i>
 MUSIC </h2>
-<h2> <i class="fas fa-pencil-alt" style="background-color:#DEB143;color:#fff"></i>
+<h2> <i class="fas fa-book-open" style="background-color:#DEB143;color:#fff"></i>
 HARD SKILLS </h2>
