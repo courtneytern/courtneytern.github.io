@@ -13,7 +13,7 @@ Currently, I am working on a project to study the evolutionary history of the mo
 #### Past projects
 * Conducted a ten-month fecundity assay on *Drosophila melanogaster* samples to study plasticity vs adaptation
   - Adapted and tested a computer program to count eggs on an agar plate
-  - Made 140 of the aforementiond agar plates every two weeks
+  - Made 140 of the aforementioned agar plates every two weeks
   - Collected samples from a field site
 * Maintained routine fly stocks
 
