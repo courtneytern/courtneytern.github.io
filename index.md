@@ -7,7 +7,7 @@ author_profile: false
 search: false
 permalink: /
 type: pages
-tagline: "Human Biology DMP, BA Statistics <br> University of Virginia \'20"
+tagline: "Human Biology DMP, BA Statistics <br> University of Virginia \'22"
 ---
 
   <img src="/assets/images/pumpkin.JPG" alt="Courtney in a pumpkin patch"
