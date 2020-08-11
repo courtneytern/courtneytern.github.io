@@ -15,7 +15,7 @@ tagline: "Human Biology DMP, BA Statistics <br> University of Virginia '22"
    style="float:left;margin-right:10px;max-width:30%;height:auto;">
   </div>
 
-  <div class="column" markdown="1">
+  <div class="column is-9" markdown="1">
 ## Hello!
   Welcome to my homepage. This is a personal website dedicated to documenting my professional projects, ethics blog, and digital resume.
 
