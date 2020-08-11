@@ -9,10 +9,13 @@ permalink: /
 type: pages
 tagline: "Human Biology DMP, BA Statistics <br> University of Virginia '22"
 ---
-
+<div class="columns">
+  <div class="column is-3">
   <img src="/assets/images/pumpkin.JPG" alt="Courtney in a pumpkin patch"
    style="float:left;margin-right:10px;max-width:30%;height:auto;">
+  </div>
 
+  <div class="column">
 ## Hello!
   Welcome to my homepage. This is a personal website dedicated to documenting my professional projects, ethics blog, and digital resume.
 
@@ -23,4 +26,6 @@ tagline: "Human Biology DMP, BA Statistics <br> University of Virginia '22"
 
   I love music (a mix of classical and 90's alt-rock), dancing (a mix of ballet and hip hop), and making jokes (a mix of bad and terrible).
 
-  I coded the website features with Markdown, HTML, and Github-hosted Jekyll templates. Feel free to click around!
+  I coded this website with Markdown, HTML, and Github-hosted Jekyll templates. Feel free to click around!
+  </div>
+</div>
