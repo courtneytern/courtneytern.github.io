@@ -1,6 +1,5 @@
 ---
 layout: single
-class: wide
 title: Courtney Tern
 header:
   overlay_image: "/assets/images/headerColorBlock.jpg"
