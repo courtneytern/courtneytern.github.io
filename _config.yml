@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Courtney Tern"
 description              : "Personal website and blog"
-url                      : "https://courtneytern.github.io/"
+url                      : "https://courtneytern.live/"
 favicon                  : "/assets/images/elephantLogo.png"
 repository               : "courtneytern/courtneytern.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
