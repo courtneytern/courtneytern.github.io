@@ -1,0 +1,12 @@
+#This file defines all the categories you are using
+
+
+projects:
+  name: Projects
+  description: My personal and professioal projects. Click for more details!
+blog:
+  name: Blog
+  description: Welcome to Odin, time to get started
+resume:
+  name: Resume
+  description: Welcome to Odin, time to get started

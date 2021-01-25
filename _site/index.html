@@ -1,294 +1,334 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.19.3 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
+<!DOCTYPE html>
+<html lang="en">
+  <!-- <a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">Menu<span><span></span><span></span><span></span></span></a>
+
+<style>
+@keyframes span1 {
+    0%   { top: 0%; transform-origin: 50% 50%;}
+    50%  { top: 50%; transform: rotate(0deg) translateY(-50%);}
+    100% { top: 50%; transform: rotate(45deg) translateY(-50%);}
+}
+@keyframes span2 {
+    0%   {opacity: 1;}
+    45%  {opacity: 1;}
+    65%  {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes span3 {
+    0%   { bottom: 0%; transform-origin: 50% 50%;}
+    45%  { bottom: 50%; transform: rotate(0deg) translateY(50%);}
+    100% { bottom: 50%; transform: rotate(-45deg) translateY(50%);}
+}
+
+#togglemenu {display: none;}
+@media only screen and (max-width: 55rem) {
+    #menu {display: none;}
+    .menuopen #menu {display: block;}
+    #togglemenu {display: block; cursor: pointer;}
+    
+}
+#togglemenu > span {display: inline-block; margin-left: 0.4rem; width: 1.1rem; height: 0.75rem; position: relative; vertical-align: middle; position: relative; bottom: 1px;}
+#togglemenu > span > span {display: block; position: absolute; width: 100%; height: 2px; background: #999;}
+#togglemenu > span > span:nth-child(1) {top: 0; transform-origin: 50% 0%;}
+#togglemenu > span > span:nth-child(2) {top: 50%; margin-top: -1px;}
+#togglemenu > span > span:nth-child(3) {bottom: 0; transform-origin: 50% 100%;}
+
+.menuopen #togglemenu > span > span:nth-child(1) {
+    animation: span1 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+.menuopen #togglemenu > span > span:nth-child(2) {
+    animation: span2 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;  
+}
+.menuopen #togglemenu > span > span:nth-child(3) {
+    animation: span3 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; 
+}
+</style>
+ -->
+
   <head>
-    <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
 
-<!-- begin _includes/seo.html --><title>Courtney Tern | Courtney Tern</title>
-<meta name="description" content="Personal website and blog">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <meta property="og:title" content="Courtney Tern">
+  <meta property="og:site_name" content="CT">
+  <meta property="og:url" content="http://localhost:4000">
+  <meta property="og:description" content="A personal portfolio and blog">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="http://localhost:4000/assets/">
 
-  <meta name="author" content="Courtney Tern">
+  <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.0.1/css/unicons.css">
 
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Courtney Tern">
-<meta property="og:title" content="Courtney Tern">
-<meta property="og:url" content="http://localhost:4000/">
-
-
-  <meta property="og:description" content="Personal website and blog">
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-
-
-<link rel="canonical" href="http://localhost:4000/">
-
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
+  <title>
     
-      "@type": "Person",
-      "name": "Courtney Tern",
-      "url": "http://localhost:4000/"
+      Courtney Tern | 
     
-  }
-</script>
+  </title>
 
 
 
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="http://localhost:4000/css/styles.css">
 
 
 
-<!-- end _includes/seo.html -->
+  <!-- Icons -->
+  <link rel="shortcut icon" href="http://localhost:4000/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="Courtney Tern" href="atom.xml">
+</head>
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Courtney Tern Feed">
+  <body>
+    
 
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <div class="header-bg">
+  <div class="container-full">
+    <div class="header ">
+      <!-- <a id="togglemenu" onclick="document.body.classList.toggle('menuopen');">Menu<span><span></span><span></span><span></span></span></a>
 
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
+<style>
+@keyframes span1 {
+    0%   { top: 0%; transform-origin: 50% 50%;}
+    50%  { top: 50%; transform: rotate(0deg) translateY(-50%);}
+    100% { top: 50%; transform: rotate(45deg) translateY(-50%);}
+}
+@keyframes span2 {
+    0%   {opacity: 1;}
+    45%  {opacity: 1;}
+    65%  {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes span3 {
+    0%   { bottom: 0%; transform-origin: 50% 50%;}
+    45%  { bottom: 50%; transform: rotate(0deg) translateY(50%);}
+    100% { bottom: 50%; transform: rotate(-45deg) translateY(50%);}
+}
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
-<link rel="shortcut icon" type="image/png"
-       href="http://localhost:4000/assets/images/elephantLogo.png" 
-/>
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
+#togglemenu {display: none;}
+@media only screen and (max-width: 55rem) {
+    #menu {display: none;}
+    .menuopen #menu {display: block;}
+    #togglemenu {display: block; cursor: pointer;}
+    
+}
+#togglemenu > span {display: inline-block; margin-left: 0.4rem; width: 1.1rem; height: 0.75rem; position: relative; vertical-align: middle; position: relative; bottom: 1px;}
+#togglemenu > span > span {display: block; position: absolute; width: 100%; height: 2px; background: #999;}
+#togglemenu > span > span:nth-child(1) {top: 0; transform-origin: 50% 0%;}
+#togglemenu > span > span:nth-child(2) {top: 50%; margin-top: -1px;}
+#togglemenu > span > span:nth-child(3) {bottom: 0; transform-origin: 50% 100%;}
 
+.menuopen #togglemenu > span > span:nth-child(1) {
+    animation: span1 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+.menuopen #togglemenu > span > span:nth-child(2) {
+    animation: span2 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;  
+}
+.menuopen #togglemenu > span > span:nth-child(3) {
+    animation: span3 0.25s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; 
+}
+</style>
+ -->
 
+<nav class="container grid-xl navbar">
+  <div class="flex-vertical-center hide-sm">
+    <a style="width: 20%;" href="http://localhost:4000" class="logo">
+      <img style="max-width: 100%;" src="/assets/homeLogo.png"/>
+    </a>
+    <p class="m-0 ml-2 text-light d-inline"></p>
+  </div>
+  <div class="text-center show-sm">
+    <a style="width: 100%;" href="http://localhost:4000" class="logo flex-centered">
+      <img style="max-width: 150px;" src="/assets/homeLogo.png"/>
+    </a>
+    <p class="m-0 text-light"></p>
+    <a style="height: auto;" href="https://www.linkedin.com/in/courtney-tern-244842145/" class="btn btn-lg btn-outline py-2 mt-4">LinkedIn</a>
 
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--splash">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </div>
+  <ul class="main-nav">
+    
+    <li class="mx-4">
+      <a  class="nav-links" href="/projects">Projects</a>
+    </li>
+    
+    
+    <li class="mx-4">
+      <a  class="nav-links" href="/blog">Blog</a>
+    </li>
+    
+    
+    <li class="mx-4">
+      <a  class="nav-links" href="/resume">Resume</a>
+    </li>
+    
+    
+    <li>
+      <a href="https://www.linkedin.com/in/courtney-tern-244842145/" style="height:auto;" class="btn btn-lg btn-outline btn-nav py-2">LinkedIn</a>
+    </li>
+    
   </ul>
 </nav>
 
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-          <a class="site-logo" href="/"><img src="/assets/images/elephantLogo.png" alt=""></a>
-        
-        <a class="site-title" href="/">
-           
-          
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="https://courtneytern.github.io/">Home</a>
-            </li><li class="masthead__menu-item">
-              <a href="/projects/">Projects</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blog/">Blog</a>
-            </li><li class="masthead__menu-item">
-              <a href="/resume/">Resume</a>
-            </li></ul>
-        
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">Toggle search</span>
-          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
-          </svg>
-        </button>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+      <header class="container grid-xl landing-header">
+        <div class="columns pt-12 pb-8">
+          <div class="column col-11 col-mx-auto text-center">
+            <h1 class="mt-2 super-h1">COURTNEY TERN</h1>
+            <h4 class="text-secondary">Human Biology DMP, BA Statistics</h4>
+          </div>
+        </div>
+      </header>
     </div>
   </div>
 </div>
+    <div class="container-full">
+      <div class="container grid-xl">
+        <div class="columns negative-m-s">
+          <div class="column col-12 text-center">
+            <h6 class="text-secondary" style="color:#998DA0;">Explore my personal portfolio and blog!</h6>
+          </div>
+          
+          
+          
+          <div class="column col-4 col-md-6 col-sm-12">
+            <a href="/projects">
+              <div class="card card-link">
+                <div class="card-body text-center my-4">
+                  <h5 class="text-bold">Projects</h5>
+
+                  <!-- 
+                  <p class="m-0">2 articles</p>
+                   -->
+                </div>
+              </div>
+            </a>
+          </div>
+          
+          
+          
+          <div class="column col-4 col-md-6 col-sm-12">
+            <a href="/blog">
+              <div class="card card-link">
+                <div class="card-body text-center my-4">
+                  <h5 class="text-bold">Blog</h5>
+
+                  <!-- 
+                  <p class="m-0">2 articles</p>
+                   -->
+                </div>
+              </div>
+            </a>
+          </div>
+          
+          
+          
+          <div class="column col-4 col-md-6 col-sm-12">
+            <a href="/resume">
+              <div class="card card-link">
+                <div class="card-body text-center my-4">
+                  <h5 class="text-bold">Resume</h5>
+
+                  <!-- 
+                  <p class="m-0">2 articles</p>
+                   -->
+                </div>
+              </div>
+            </a>
+          </div>
+          
+
+          <div class="column col-12 text-center mt-16">
+            <h4>About Me</h4>
+          </div>
+          <div class="column col-10 col-sm-12 p-8 mb-8 col-mx-auto">
+          <p style="font-size:.9rem">
+            Welcome! This is my personal website for my portfolio, projects, and blog. I coded this site with HTML and CSS, based on Jekyll and powered by GitHub Pages.
+            Feel free to explore my personal and professional work above!
+            <br><br>
+            I am currently an undergraduate at the University of Virginia, pursuing a Distinguished Major in Human Biology and a B.A. in Mathematical Statistics.
+            <br><br>
+            My current career goal is to work in public health, with a particular interest in increasing equity and accessibility in healthcare and health information. Check out my ethics blog above!
+            <br><br>
+            I love music (a mix of classical and 90’s alt-rock), dancing (a mix of ballet and hip hop), and making jokes (a mix of bad and terrible).
+          </p></div>
 
 
-    <div class="initial-content">
-      
-  
-
-
-
-
-
-
-
-<div class="page__hero--overlay"
-  style="background-color: #F5DB86; background-image: url('');"
->
-  
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        
-          Courtney Tern
-
-        
-      </h1>
-      
-        <p class="page__lead">Human Biology DMP, BA Statistics <br /> University of Virginia ‘22
-</p>
-      
-      
-      
-      
-    </div>
-  
-  
+          <!-- 
+<div class="column col-12 text-center mt-16">
+  <h4>Still Need Help?</h4>
+</div>
+<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
+  <h5>Odin Bugs</h5>
+  <p>If you find any bugs or problems with this theme, please open an issue over on Github.</p>
+  <a href="https://github.com/TeaGuns/odin/issues">Github <i class='uil uil-arrow-right arrow-hover'></i></a>
 </div>
 
 
-
-<div id="main" role="main">
-
-  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Courtney Tern">
-    
-    
-    
-
-    <section class="page__content" itemprop="text">
-      
-
-      <p><img src="/assets/images/pumpkin.JPG" alt="Courtney in a pumpkin patch" style="float:left;margin-right:10px;max-width:30%;height:auto;" /></p>
-
-<div class="column is-9">
-  <h2 id="hello">Hello!</h2>
-  <p>Welcome to my homepage. This is a personal website dedicated to documenting my professional projects, ethics blog, and digital resume. I coded this site based off of a Jekyll template with HTML and Markdown.</p>
-
-  <h3 id="about-me">About Me</h3>
-  <p>I am currently an undergraduate at the University of Virginia, pursuing a Distinguished Major in Human Biology and a B.A. in Mathematical Statistics.</p>
-
-  <p>My current career goal is to work in public health, with a particular interest in increasing equity and accessibility in healthcare. Check out my ethics blog above!</p>
-
-  <p>I love music (a mix of classical and 90’s alt-rock), dancing (a mix of ballet and hip hop), and making jokes (a mix of bad and terrible).</p>
+<div class="column col-4 col-sm-12 p-8 mb-8 col-mx-auto">
+  <h5>Twitter</h5>
+  <p>Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.</p>
+  <a href="https://twitter.com/theteaguns" target="_blank">Twitter <i class='uil uil-arrow-right arrow-hover'></i></a>
 </div>
 
-    </section>
-  </article>
-</div>
-
-    </div>
-
-    
-      <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
-    <label class="sr-only" for="search">
-      Enter your search term...
-    </label>
-    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-  </form>
-  <div id="results" class="results"></div></div>
-
+ -->
+        </div>
       </div>
-    
-
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    <!--  -->
-
-    
-      
-        
-          <li><a href="https://maps.google.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> USA</a></li>
-        
-      
-        
-          <li><a href="https://courtneytern.github.io/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
-        
-      
-        
-          <li><a href="https://github.com/courtneytern" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-        
-      
-    
-
-    <!-- <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li> -->
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2021 Courtney Tern.
-Favicon and masthead logo <a href="https://thenounproject.com/icon/1591846/">Elephant Body</a> by Icons Producer from <a href="thenounproject.com">the Noun Project</a>.
-Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
     </div>
 
+
     
-  <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+<section class="container-full footer">
+  <svg id="anglesvg" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg"><path d="M720 60l720-60H0z" fill="#f5f6ff" /></svg>
+  <div class="container grid-xl footer-contents mb-0">
+    <div class="columns text-center">
+      <div class="column col-12">
+        <img style="max-width: 10%; min-width: 150px; opacity: 0.7;-webkit-filter: invert(1);filter: invert(1);" src="/assets/homeLogo.png"/>
+        <div class="footer-social my-4">
+            
+            
+
+            
+            <a href="https://github.com/courtneytern" target="_blank"><i class='uil uil-github'></i></a>
+            
+
+            
+            <a href="https://www.linkedin.com/in/courtney-tern-244842145/"><i class='uil uil-linkedin' target="_blank"></i></a>
+            
+
+            
+            
+
+            
+            <a href="mailto:catern19@gmail.com"><i class='uil uil-envelope' target="_blank"></i></a>
+            
+
+            
+            
+          </div>
+        <p>© 2021 All rights reserved. <a href="https://github.com/TeaGuns/odin" target="_blank">Powered by Odin.</a> <br>Favicon and logo adapted from <a href="https://thenounproject.com/icon/1591846/">Elephant Body</a> by Icons Producer from <a href="thenounproject.com">the Noun Project</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
 
-
-
-<script src="/assets/js/lunr/lunr.min.js"></script>
-<script src="/assets/js/lunr/lunr-store.js"></script>
-<script src="/assets/js/lunr/lunr-en.js"></script>
-
-
-
-
-
-
+    <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+    <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
 
   </body>
 </html>

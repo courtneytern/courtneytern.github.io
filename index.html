@@ -1,0 +1,53 @@
+---
+layout: default
+title: Home
+---
+{% assign page_category = site.data.category_list[page.category] %}
+
+  {% include header-home.html %}
+    <div class="container-full">
+      <div class="container grid-xl">
+        <div class="columns negative-m-s">
+          <div class="column col-12 text-center">
+            <h6 class="text-secondary" style="color:#998DA0;">Explore my personal portfolio and blog!</h6>
+          </div>
+          {% for category in site.data.category_list %}
+          {% capture category_name %}{{ category | first }}{% endcapture %}
+          {% assign page_category = site.data.category_list[category_name] %}
+          <div class="column col-4 col-md-6 col-sm-12">
+            <a href="{{ site.baseurl }}/{{ category_name | slugify }}">
+              <div class="card card-link">
+                <div class="card-body text-center my-4">
+                  <h5 class="text-bold">{{ page_category.name }}</h5>
+
+                  <!-- {% if category[1].size == 1 %}
+                  <p class="m-0">{{ category | last | size }} article</p>
+                  {% else %}
+                  <p class="m-0">{{ category | last | size }} articles</p>
+                  {% endif %} -->
+                </div>
+              </div>
+            </a>
+          </div>
+          {% endfor %}
+
+          <div class="column col-12 text-center mt-16">
+            <h4>About Me</h4>
+          </div>
+          <div class="column col-10 col-sm-12 p-8 mb-8 col-mx-auto">
+          <p style="font-size:.9rem">
+            Welcome! This is my personal website for my portfolio, projects, and blog. I coded this site with HTML and CSS, based on Jekyll and powered by GitHub Pages.
+            Feel free to explore my personal and professional work above!
+            <br><br>
+            I am currently an undergraduate at the University of Virginia, pursuing a Distinguished Major in Human Biology and a B.A. in Mathematical Statistics.
+            <br><br>
+            My current career goal is to work in public health, with a particular interest in increasing equity and accessibility in healthcare and health information. Check out my ethics blog above!
+            <br><br>
+            I love music (a mix of classical and 90’s alt-rock), dancing (a mix of ballet and hip hop), and making jokes (a mix of bad and terrible).
+          </p></div>
+
+
+          <!-- {% include more-help.html %} -->
+        </div>
+      </div>
+    </div>
