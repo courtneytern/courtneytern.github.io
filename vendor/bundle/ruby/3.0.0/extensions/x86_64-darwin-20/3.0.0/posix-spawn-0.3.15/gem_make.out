@@ -1,0 +1,23 @@
+current directory: /Users/ctern/Downloads/GitHub/courtneytern.github.io/vendor/bundle/ruby/3.0.0/gems/posix-spawn-0.3.15/ext
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20211217-47121-kda124.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ctern/Downloads/GitHub/courtneytern.github.io/vendor/bundle/ruby/3.0.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= clean
+
+current directory: /Users/ctern/Downloads/GitHub/courtneytern.github.io/vendor/bundle/ruby/3.0.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\=
+compiling posix-spawn.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+posix-spawn.c:226:27: warning: incompatible pointer types passing 'int (VALUE, VALUE, posix_spawn_file_actions_t *)' (aka 'int (unsigned long, unsigned long, void **)') to parameter of type 'int (*)(VALUE, VALUE, VALUE)' (aka 'int (*)(unsigned long, unsigned long, unsigned long)') [-Wincompatible-pointer-types]
+        rb_hash_foreach(options, posixspawn_file_actions_operations_iter, (VALUE)fops);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/local/Cellar/ruby/3.0.3/include/ruby-3.0.0/ruby/internal/intern/hash.h:33:35: note: passing argument to parameter here
+void rb_hash_foreach(VALUE, int (*)(VALUE, VALUE, VALUE), VALUE);
+                                  ^
+2 warnings generated.
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /Users/ctern/Downloads/GitHub/courtneytern.github.io/vendor/bundle/ruby/3.0.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20211217-47121-aarjop
