@@ -2,7 +2,7 @@
 layout: subcategory-post
 title: "Subcategory Post"
 date: 2019-11-05 08:44:38 -0400
-category: subcategory-one
+category: bergland-lab
 parent-category: projects
 short-description: A quick overview of Odin to get you started
 ---

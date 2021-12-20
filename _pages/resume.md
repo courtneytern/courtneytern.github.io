@@ -5,9 +5,7 @@ title: Resume
 permalink: /resume
 ---
 
-# Research
-d fsd s
-<i class="fas fa-microscope"></i> 
+<i class="fas fa-microscope" style="background-color:#DEB143;color:#fff"> </i>
 ## RESEARCH
 **UNDERGRADUATE INDEPENDENT RESEARCH** <br>
 *University of Virginia, Charlottesville, VA  /  January 2019 - Present*
@@ -18,7 +16,7 @@ d fsd s
 *	Trained two undergraduates to maintain quality and consistency of data collection work
 
 
-## <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"></i> WORK EXPERIENCE
+## <i class="fas fa-briefcase" style="background-color:#DEB143;color:#fff"> </i> WORK EXPERIENCE
 **TUTOR** <br>
 *Varsity Tutors LLC, Online  /  January 2019 – present*
 *	Mentors students in understanding various levels of math, science, and standardized testing

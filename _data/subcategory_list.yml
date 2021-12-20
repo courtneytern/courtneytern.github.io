@@ -1,15 +1,17 @@
 #Tihs file defines all categories that live within a parent category
 
 
-subcategory-one:
-  name: Subcategory One
+bergland-lab:
+  name: Bergland Lab
   parent-category: projects # necessary for linking reasons
   parent-category-name: Projects # necessary for breadcrumb reasons
-  description: This is your first subcategory!
+  num-projects: 3
+  description: An evolutionary genetics lab, Jan 2019-present
 subcategory-two:
   name: Subcategory Two
   parent-category: projects
   parent-category-name: Projects
+  num-projects: 1
   description: This is your second subcategory!
 subcategory-three:
   name: Subcategory Three
