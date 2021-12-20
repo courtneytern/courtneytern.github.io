@@ -3,10 +3,10 @@
 
 projects:
   name: Projects
-  description: My personal and professioal projects. Click for more details!
+  description: My personal and professional projects. Click for more details!
 blog:
   name: Blog
   description: Welcome to Odin, time to get started
 resume:
   name: Resume
-  description: Like the print version, but with more interactivity 
+  description: Like the print version, but with more interactivity
